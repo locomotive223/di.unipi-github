@@ -3,7 +3,7 @@ List of organizations and users linked to the Department of Computer Science of 
 
 
 *These lists want to bring together the work of the department.
-They are incomplete (and unsorted): feel free to contribute.*
+They are incomplete (and unsorted): feel free to contribute. ( see [FAQ](FAQ.md "FAQ" ))*
 
 ## Organizations
 
