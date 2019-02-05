@@ -48,3 +48,6 @@ https://github.com/cisterni
 Racing Team carrying the prestigious flag of the University of Pisa to Formula SAE and Formula Student Competitions
 https://github.com/E-TeamUnipi
 
+* Bioengineering and Robotics Research Center "E. Piaggio"
+https://github.com/CentroEPiaggio
+ 
