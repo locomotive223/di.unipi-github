@@ -30,16 +30,16 @@ https://github.com/di-unipi-socc
 
 ## Users: 
 
-* Giuseppe Attardi
+* Giuseppe Attardi (invitato)
 https://github.com/attardi
 
-* Antonio Frangioni
+* Antonio Frangioni (invitato)
 https://github.com/frangio68
 
-* Davide Bacciu
+* Davide Bacciu (invitato)
 https://github.com/dbacciu
 
-* Antonio Cisternino
+* Antonio Cisternino (invitato)
 https://github.com/cisterni
 
 
